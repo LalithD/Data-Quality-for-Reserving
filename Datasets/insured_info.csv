@@ -1,0 +1,1001 @@
+policy_number,insured_zip,insured_sex,insured_education_level,insured_occupation,insured_hobbies,insured_relationship
+521585,466132,MALE,MD,craft-repair,sleeping,husband
+342868,468176,MALE,MD,machine-op-inspct,reading,other-relative
+687698,430632,FEMALE,PhD,sales,board-games,own-child
+227811,608117,FEMALE,PhD,armed-forces,board-games,unmarried
+367455,610706,MALE,Associate,sales,board-games,unmarried
+104594,478456,FEMALE,PhD,tech-support,bungie-jumping,unmarried
+413978,441716,MALE,PhD,prof-specialty,board-games,husband
+429027,603195,MALE,Associate,tech-support,base-jumping,unmarried
+485665,601734,FEMALE,PhD,other-service,golf,own-child
+636550,600983,MALE,PhD,priv-house-serv,camping,wife
+543610,462283,FEMALE,Masters,exec-managerial,dancing,other-relative
+214618,615561,FEMALE,High School,exec-managerial,skydiving,other-relative
+842643,432220,MALE,MD,protective-serv,reading,wife
+626808,464652,FEMALE,MD,armed-forces,bungie-jumping,wife
+644081,476685,FEMALE,College,machine-op-inspct,board-games,not-in-family
+892874,458733,FEMALE,MD,transport-moving,movies,other-relative
+558938,619884,MALE,College,machine-op-inspct,hiking,own-child
+275265,470610,MALE,High School,machine-op-inspct,reading,unmarried
+921202,472135,FEMALE,MD,craft-repair,yachting,other-relative
+143972,477670,FEMALE,High School,handlers-cleaners,camping,own-child
+183430,618845,MALE,JD,other-service,bungie-jumping,own-child
+431876,442479,FEMALE,Associate,machine-op-inspct,skydiving,own-child
+285496,443920,MALE,High School,prof-specialty,paintball,other-relative
+115399,453148,MALE,MD,priv-house-serv,chess,own-child
+736882,434733,MALE,College,craft-repair,kayaking,husband
+699044,613982,MALE,Masters,sales,polo,own-child
+863236,436984,MALE,High School,prof-specialty,golf,own-child
+608513,607730,MALE,JD,exec-managerial,chess,not-in-family
+914088,609837,FEMALE,JD,sales,kayaking,not-in-family
+596785,432211,FEMALE,PhD,machine-op-inspct,basketball,unmarried
+908616,473328,MALE,Masters,prof-specialty,video-games,husband
+666333,610393,MALE,JD,craft-repair,reading,husband
+336614,614780,FEMALE,Associate,adm-clerical,yachting,other-relative
+584859,472248,MALE,High School,farming-fishing,video-games,wife
+990493,603381,MALE,PhD,prof-specialty,yachting,own-child
+129872,479224,MALE,High School,craft-repair,reading,not-in-family
+200152,430141,FEMALE,Masters,protective-serv,camping,unmarried
+933293,620757,FEMALE,JD,priv-house-serv,golf,unmarried
+485664,615901,FEMALE,MD,craft-repair,bungie-jumping,unmarried
+982871,474615,MALE,JD,tech-support,video-games,wife
+206213,456446,MALE,Associate,tech-support,kayaking,not-in-family
+616337,470577,MALE,Associate,transport-moving,chess,unmarried
+448961,441648,FEMALE,College,prof-specialty,hiking,husband
+790442,433782,FEMALE,PhD,transport-moving,reading,own-child
+108844,468104,MALE,JD,priv-house-serv,reading,unmarried
+430029,459407,FEMALE,MD,protective-serv,yachting,husband
+529112,472573,FEMALE,Associate,other-service,polo,husband
+939631,433473,MALE,College,other-service,kayaking,husband
+866931,446326,FEMALE,PhD,protective-serv,dancing,other-relative
+582011,435481,FEMALE,Masters,exec-managerial,movies,wife
+691189,477310,MALE,MD,other-service,bungie-jumping,own-child
+537546,609930,FEMALE,JD,farming-fishing,polo,husband
+394975,603993,MALE,College,armed-forces,basketball,not-in-family
+729634,437818,FEMALE,JD,priv-house-serv,movies,husband
+282195,478423,MALE,PhD,machine-op-inspct,movies,not-in-family
+420810,467784,MALE,PhD,craft-repair,skydiving,not-in-family
+524836,606714,FEMALE,PhD,prof-specialty,chess,unmarried
+307195,464691,FEMALE,Masters,adm-clerical,hiking,own-child
+623648,431683,MALE,PhD,other-service,yachting,husband
+485372,431725,FEMALE,MD,adm-clerical,kayaking,own-child
+598554,609216,MALE,PhD,machine-op-inspct,base-jumping,other-relative
+303987,452787,MALE,JD,handlers-cleaners,basketball,husband
+343161,468767,MALE,High School,armed-forces,bungie-jumping,unmarried
+519312,435489,MALE,JD,transport-moving,video-games,own-child
+132902,450149,MALE,PhD,sales,chess,not-in-family
+332867,458364,FEMALE,MD,exec-managerial,chess,other-relative
+356590,476458,FEMALE,High School,tech-support,paintball,not-in-family
+346002,602433,FEMALE,Associate,adm-clerical,reading,unmarried
+500533,478575,MALE,MD,machine-op-inspct,movies,own-child
+348209,449718,MALE,MD,other-service,kayaking,own-child
+486676,463181,FEMALE,Associate,prof-specialty,sleeping,own-child
+260845,441992,FEMALE,MD,armed-forces,cross-fit,not-in-family
+657045,452597,FEMALE,Associate,sales,paintball,husband
+761189,614417,FEMALE,College,transport-moving,golf,not-in-family
+175177,472895,FEMALE,Associate,sales,yachting,wife
+116700,475847,FEMALE,High School,transport-moving,bungie-jumping,other-relative
+166264,476978,FEMALE,College,handlers-cleaners,golf,husband
+527945,600648,MALE,College,transport-moving,dancing,not-in-family
+627540,608335,FEMALE,JD,other-service,kayaking,wife
+279422,471600,FEMALE,PhD,handlers-cleaners,polo,unmarried
+484200,441175,MALE,High School,exec-managerial,paintball,husband
+645258,603123,FEMALE,Masters,exec-managerial,video-games,wife
+694662,457767,MALE,Masters,other-service,bungie-jumping,other-relative
+960680,618498,MALE,High School,exec-managerial,video-games,wife
+498140,605486,MALE,Masters,prof-specialty,movies,not-in-family
+498875,617970,MALE,High School,transport-moving,board-games,own-child
+798177,432934,FEMALE,Associate,priv-house-serv,yachting,husband
+614763,456762,FEMALE,MD,other-service,yachting,own-child
+679370,601748,FEMALE,College,prof-specialty,kayaking,not-in-family
+958857,607763,FEMALE,College,exec-managerial,exercise,not-in-family
+686816,436973,FEMALE,High School,sales,board-games,own-child
+127754,471300,FEMALE,Associate,tech-support,exercise,own-child
+918629,453277,MALE,PhD,farming-fishing,yachting,own-child
+731450,465100,FEMALE,MD,exec-managerial,exercise,not-in-family
+307447,603248,FEMALE,High School,machine-op-inspct,hiking,not-in-family
+992145,601112,FEMALE,PhD,armed-forces,exercise,husband
+900628,438830,FEMALE,Associate,protective-serv,hiking,not-in-family
+235220,464959,MALE,Masters,farming-fishing,skydiving,own-child
+740019,439787,FEMALE,College,machine-op-inspct,kayaking,wife
+246882,464839,MALE,College,exec-managerial,reading,not-in-family
+797613,448984,FEMALE,College,protective-serv,yachting,not-in-family
+193442,440327,FEMALE,College,tech-support,exercise,unmarried
+389238,460742,FEMALE,JD,prof-specialty,bungie-jumping,husband
+760179,446895,FEMALE,Associate,tech-support,kayaking,other-relative
+939905,609374,MALE,College,other-service,basketball,wife
+872814,451672,MALE,College,prof-specialty,kayaking,husband
+632627,604450,FEMALE,Associate,prof-specialty,basketball,husband
+283414,432896,FEMALE,High School,handlers-cleaners,camping,own-child
+163161,618929,FEMALE,PhD,machine-op-inspct,basketball,other-relative
+853360,451312,FEMALE,Masters,sales,chess,husband
+776860,605141,FEMALE,College,prof-specialty,video-games,unmarried
+149367,459504,MALE,PhD,craft-repair,dancing,unmarried
+395269,432781,MALE,High School,exec-managerial,polo,other-relative
+981123,452748,MALE,MD,protective-serv,camping,own-child
+143626,618316,MALE,Associate,armed-forces,reading,other-relative
+648397,455365,MALE,MD,machine-op-inspct,hiking,other-relative
+154982,470603,FEMALE,PhD,machine-op-inspct,bungie-jumping,other-relative
+330591,475292,MALE,High School,exec-managerial,exercise,unmarried
+319232,467743,FEMALE,PhD,transport-moving,yachting,not-in-family
+531640,460675,FEMALE,Associate,adm-clerical,camping,husband
+368050,618123,MALE,High School,priv-house-serv,board-games,other-relative
+253791,607452,FEMALE,MD,other-service,video-games,other-relative
+155724,606352,FEMALE,Masters,other-service,skydiving,not-in-family
+824540,603527,FEMALE,College,prof-specialty,movies,other-relative
+717392,445601,FEMALE,JD,prof-specialty,paintball,not-in-family
+965768,603948,MALE,JD,craft-repair,dancing,unmarried
+414779,435758,MALE,MD,protective-serv,video-games,unmarried
+428230,611586,FEMALE,High School,tech-support,exercise,own-child
+517240,465263,MALE,College,farming-fishing,basketball,wife
+469874,617858,FEMALE,Masters,sales,sleeping,husband
+718428,607889,MALE,JD,machine-op-inspct,camping,wife
+620215,455689,MALE,Masters,adm-clerical,paintball,own-child
+618659,450341,FEMALE,Masters,tech-support,exercise,unmarried
+649082,431277,FEMALE,High School,machine-op-inspct,skydiving,wife
+437573,454656,MALE,PhD,exec-managerial,basketball,unmarried
+964657,605169,FEMALE,College,exec-managerial,yachting,other-relative
+932502,444822,FEMALE,High School,sales,exercise,other-relative
+434507,447442,FEMALE,PhD,tech-support,golf,not-in-family
+935277,474360,FEMALE,High School,prof-specialty,basketball,wife
+756054,447925,FEMALE,MD,other-service,hiking,not-in-family
+682387,451586,MALE,Masters,machine-op-inspct,camping,other-relative
+456604,477519,MALE,Masters,transport-moving,video-games,wife
+139872,603639,MALE,PhD,machine-op-inspct,video-games,own-child
+354105,463993,MALE,MD,exec-managerial,yachting,other-relative
+165485,441491,FEMALE,JD,farming-fishing,video-games,wife
+515050,469429,FEMALE,Associate,exec-managerial,cross-fit,wife
+795686,472214,MALE,Masters,tech-support,polo,not-in-family
+395983,614945,FEMALE,MD,other-service,golf,other-relative
+119513,476727,MALE,PhD,adm-clerical,reading,not-in-family
+217938,438555,FEMALE,JD,craft-repair,skydiving,not-in-family
+203914,440961,FEMALE,PhD,farming-fishing,base-jumping,wife
+565157,616714,MALE,Masters,priv-house-serv,polo,husband
+904191,434247,MALE,High School,exec-managerial,kayaking,own-child
+419510,436547,FEMALE,Masters,craft-repair,paintball,own-child
+575000,619540,FEMALE,Masters,other-service,reading,own-child
+120485,466283,MALE,Associate,sales,bungie-jumping,other-relative
+781181,449557,MALE,JD,exec-managerial,exercise,husband
+299796,473329,FEMALE,JD,prof-specialty,hiking,other-relative
+589749,470117,MALE,Masters,machine-op-inspct,movies,not-in-family
+854021,600702,FEMALE,JD,transport-moving,video-games,other-relative
+454086,615921,FEMALE,Associate,priv-house-serv,reading,unmarried
+139484,475588,FEMALE,MD,farming-fishing,dancing,not-in-family
+678849,609409,FEMALE,MD,exec-managerial,polo,unmarried
+346940,479852,FEMALE,Masters,prof-specialty,sleeping,not-in-family
+985436,452249,FEMALE,Masters,prof-specialty,polo,unmarried
+237418,441536,FEMALE,PhD,armed-forces,bungie-jumping,not-in-family
+335780,601617,FEMALE,Associate,craft-repair,board-games,unmarried
+491392,442598,MALE,High School,farming-fishing,yachting,unmarried
+140880,430987,FEMALE,Masters,machine-op-inspct,bungie-jumping,husband
+962591,430104,MALE,High School,other-service,movies,not-in-family
+922565,612904,MALE,Associate,armed-forces,hiking,not-in-family
+288580,430886,MALE,High School,machine-op-inspct,hiking,husband
+154280,467947,MALE,College,protective-serv,board-games,wife
+425973,604804,FEMALE,MD,transport-moving,kayaking,wife
+477177,460308,FEMALE,PhD,farming-fishing,kayaking,unmarried
+648509,618862,MALE,MD,tech-support,board-games,wife
+914815,462479,MALE,Masters,protective-serv,dancing,other-relative
+249048,457555,FEMALE,PhD,prof-specialty,kayaking,other-relative
+144323,459984,FEMALE,Masters,armed-forces,skydiving,other-relative
+651861,434982,MALE,MD,tech-support,exercise,wife
+125324,614233,MALE,Associate,handlers-cleaners,basketball,not-in-family
+398102,605258,FEMALE,Masters,adm-clerical,reading,not-in-family
+514065,604377,FEMALE,Masters,tech-support,exercise,husband
+391652,434923,MALE,JD,tech-support,cross-fit,other-relative
+922167,476456,MALE,Masters,craft-repair,sleeping,not-in-family
+442795,446788,MALE,JD,tech-support,cross-fit,husband
+226330,477382,FEMALE,JD,tech-support,bungie-jumping,unmarried
+134430,600275,FEMALE,JD,protective-serv,exercise,other-relative
+524230,461958,FEMALE,High School,tech-support,hiking,own-child
+438817,472720,FEMALE,High School,adm-clerical,polo,other-relative
+293794,442395,MALE,Associate,tech-support,movies,own-child
+868283,455340,MALE,JD,farming-fishing,hiking,unmarried
+828890,613247,FEMALE,MD,handlers-cleaners,basketball,unmarried
+882920,454985,MALE,High School,other-service,hiking,husband
+918777,468813,MALE,MD,farming-fishing,basketball,not-in-family
+212580,452747,MALE,High School,handlers-cleaners,bungie-jumping,husband
+602410,615611,MALE,MD,armed-forces,skydiving,own-child
+976971,451400,FEMALE,MD,adm-clerical,camping,not-in-family
+630226,464874,MALE,Masters,armed-forces,bungie-jumping,own-child
+171254,452496,FEMALE,College,sales,paintball,other-relative
+247116,430714,MALE,PhD,craft-repair,golf,not-in-family
+505969,472634,MALE,PhD,transport-moving,base-jumping,not-in-family
+653864,608371,FEMALE,High School,protective-serv,board-games,unmarried
+586367,468168,MALE,PhD,machine-op-inspct,paintball,wife
+896890,464107,MALE,JD,sales,kayaking,husband
+650026,466959,FEMALE,Masters,tech-support,exercise,not-in-family
+547744,443522,FEMALE,College,sales,chess,other-relative
+598124,441726,MALE,Masters,handlers-cleaners,golf,husband
+436126,473412,MALE,JD,adm-clerical,hiking,husband
+739447,466201,MALE,Associate,sales,reading,not-in-family
+427484,469621,FEMALE,High School,handlers-cleaners,movies,other-relative
+218684,466676,MALE,High School,priv-house-serv,skydiving,not-in-family
+565564,615346,MALE,High School,sales,yachting,other-relative
+743163,440106,FEMALE,MD,prof-specialty,reading,wife
+604614,450332,FEMALE,JD,exec-managerial,cross-fit,wife
+509928,615226,MALE,PhD,craft-repair,bungie-jumping,other-relative
+593390,437688,FEMALE,High School,machine-op-inspct,base-jumping,unmarried
+970607,437387,MALE,Masters,transport-moving,yachting,not-in-family
+174701,458139,FEMALE,MD,prof-specialty,exercise,not-in-family
+529398,443191,MALE,College,priv-house-serv,camping,other-relative
+940942,613647,MALE,College,farming-fishing,base-jumping,other-relative
+442677,460820,FEMALE,College,other-service,exercise,own-child
+365364,431121,FEMALE,High School,sales,yachting,husband
+114839,619735,MALE,Associate,sales,board-games,wife
+872734,470485,FEMALE,Associate,tech-support,kayaking,not-in-family
+267885,620473,MALE,Masters,exec-managerial,basketball,unmarried
+740505,449800,FEMALE,High School,other-service,paintball,own-child
+629663,602402,FEMALE,Associate,prof-specialty,bungie-jumping,not-in-family
+839884,452456,FEMALE,MD,craft-repair,kayaking,unmarried
+241562,439269,FEMALE,MD,farming-fishing,dancing,other-relative
+405533,617774,FEMALE,High School,machine-op-inspct,base-jumping,wife
+667021,477678,MALE,JD,prof-specialty,dancing,own-child
+511621,444913,FEMALE,Masters,machine-op-inspct,exercise,husband
+476923,456602,MALE,MD,handlers-cleaners,paintball,own-child
+735822,451560,MALE,JD,farming-fishing,polo,other-relative
+492745,453407,MALE,Masters,transport-moving,kayaking,unmarried
+130930,618655,MALE,JD,craft-repair,golf,unmarried
+261119,612550,MALE,MD,sales,cross-fit,own-child
+280709,466718,FEMALE,Associate,farming-fishing,reading,own-child
+898573,617947,FEMALE,Masters,farming-fishing,dancing,own-child
+547802,606238,FEMALE,MD,armed-forces,cross-fit,own-child
+600845,463842,FEMALE,College,adm-clerical,skydiving,other-relative
+390381,610354,FEMALE,JD,exec-managerial,camping,other-relative
+629918,461328,FEMALE,College,tech-support,paintball,own-child
+208298,458727,MALE,Associate,armed-forces,board-games,other-relative
+513099,452587,FEMALE,Associate,tech-support,golf,other-relative
+184938,433184,FEMALE,JD,machine-op-inspct,golf,not-in-family
+187775,451280,FEMALE,JD,other-service,chess,own-child
+326322,603269,MALE,Masters,machine-op-inspct,golf,other-relative
+146138,442632,FEMALE,High School,armed-forces,paintball,other-relative
+336047,447300,FEMALE,Associate,transport-moving,yachting,unmarried
+532330,441783,MALE,MD,sales,yachting,other-relative
+118137,468702,FEMALE,High School,transport-moving,bungie-jumping,husband
+212674,467942,MALE,PhD,transport-moving,movies,wife
+935596,463678,FEMALE,JD,tech-support,base-jumping,wife
+737593,615220,FEMALE,High School,farming-fishing,golf,own-child
+812025,432711,MALE,Associate,craft-repair,base-jumping,other-relative
+168151,463583,MALE,Associate,machine-op-inspct,cross-fit,other-relative
+594739,439502,FEMALE,MD,sales,base-jumping,husband
+843227,613287,FEMALE,PhD,exec-managerial,dancing,unmarried
+283925,620104,FEMALE,Masters,priv-house-serv,skydiving,other-relative
+475588,446895,MALE,PhD,other-service,reading,husband
+751905,431531,MALE,College,machine-op-inspct,golf,husband
+226725,605408,MALE,Masters,armed-forces,base-jumping,other-relative
+942504,457551,FEMALE,MD,protective-serv,kayaking,wife
+395572,619892,FEMALE,High School,craft-repair,movies,own-child
+889883,445853,MALE,JD,machine-op-inspct,hiking,wife
+818167,475483,FEMALE,JD,handlers-cleaners,video-games,unmarried
+277767,606290,MALE,Associate,protective-serv,reading,other-relative
+842618,611852,FEMALE,Associate,machine-op-inspct,camping,wife
+577810,444734,MALE,College,handlers-cleaners,camping,husband
+873114,433683,FEMALE,Associate,other-service,camping,wife
+994538,448882,MALE,MD,craft-repair,paintball,other-relative
+727792,466838,FEMALE,JD,armed-forces,skydiving,wife
+522506,605490,FEMALE,Masters,other-service,skydiving,other-relative
+367595,466137,FEMALE,Associate,machine-op-inspct,board-games,own-child
+586104,466970,MALE,Associate,tech-support,paintball,husband
+424862,474801,MALE,PhD,prof-specialty,cross-fit,unmarried
+512813,450703,FEMALE,JD,armed-forces,exercise,not-in-family
+356768,478172,FEMALE,College,other-service,sleeping,own-child
+330506,604668,FEMALE,JD,craft-repair,movies,unmarried
+779075,469429,FEMALE,Associate,craft-repair,cross-fit,wife
+799501,471806,FEMALE,PhD,transport-moving,video-games,not-in-family
+987905,475705,MALE,PhD,tech-support,sleeping,other-relative
+967756,459122,FEMALE,MD,priv-house-serv,basketball,own-child
+830414,476737,FEMALE,High School,adm-clerical,kayaking,not-in-family
+127313,460359,MALE,JD,priv-house-serv,hiking,not-in-family
+786957,452735,FEMALE,Associate,transport-moving,golf,not-in-family
+332892,613583,FEMALE,JD,handlers-cleaners,movies,husband
+448642,605692,FEMALE,College,sales,hiking,own-child
+526039,438178,MALE,Associate,machine-op-inspct,kayaking,wife
+444422,449221,MALE,College,protective-serv,golf,other-relative
+689500,459322,FEMALE,High School,handlers-cleaners,polo,husband
+806081,472657,MALE,High School,sales,dancing,wife
+384618,608331,MALE,High School,exec-managerial,golf,unmarried
+756459,438546,FEMALE,Associate,prof-specialty,basketball,wife
+655787,441981,MALE,College,protective-serv,reading,wife
+419954,602177,FEMALE,College,handlers-cleaners,dancing,wife
+275092,441659,FEMALE,MD,adm-clerical,golf,not-in-family
+515698,614812,MALE,High School,transport-moving,video-games,other-relative
+132871,458470,FEMALE,Masters,farming-fishing,base-jumping,not-in-family
+714929,469646,MALE,Associate,handlers-cleaners,yachting,own-child
+297816,611118,MALE,College,sales,base-jumping,other-relative
+426708,465158,MALE,JD,transport-moving,camping,wife
+615047,457130,MALE,High School,priv-house-serv,bungie-jumping,husband
+771236,607893,FEMALE,JD,handlers-cleaners,base-jumping,wife
+235869,464736,FEMALE,PhD,farming-fishing,kayaking,own-child
+931625,476198,FEMALE,Associate,protective-serv,cross-fit,unmarried
+371635,444903,MALE,Associate,machine-op-inspct,hiking,unmarried
+427199,464336,MALE,Masters,armed-forces,golf,husband
+261315,471453,FEMALE,PhD,sales,dancing,other-relative
+582973,466191,MALE,MD,sales,base-jumping,not-in-family
+278091,440930,FEMALE,Associate,handlers-cleaners,skydiving,other-relative
+153154,430380,MALE,PhD,protective-serv,board-games,own-child
+515217,613178,FEMALE,Masters,machine-op-inspct,golf,unmarried
+860497,460564,FEMALE,MD,transport-moving,bungie-jumping,wife
+351741,439929,MALE,High School,exec-managerial,bungie-jumping,not-in-family
+403737,605756,FEMALE,Associate,adm-clerical,camping,wife
+162004,451184,FEMALE,High School,transport-moving,yachting,not-in-family
+740384,459588,MALE,Associate,protective-serv,reading,other-relative
+876714,616637,FEMALE,High School,sales,video-games,wife
+951543,447979,MALE,JD,adm-clerical,polo,husband
+576723,460176,MALE,High School,handlers-cleaners,movies,husband
+391003,459429,FEMALE,Masters,priv-house-serv,board-games,other-relative
+225865,465456,MALE,College,exec-managerial,sleeping,not-in-family
+984948,464665,MALE,JD,tech-support,sleeping,not-in-family
+890328,430853,FEMALE,High School,farming-fishing,bungie-jumping,own-child
+803294,615712,MALE,PhD,craft-repair,yachting,own-child
+414913,608228,MALE,MD,armed-forces,base-jumping,husband
+414519,457535,MALE,PhD,protective-serv,board-games,own-child
+818413,442540,MALE,Masters,machine-op-inspct,base-jumping,not-in-family
+487356,455332,FEMALE,PhD,transport-moving,reading,husband
+159768,439534,FEMALE,JD,tech-support,base-jumping,unmarried
+865839,462420,FEMALE,MD,prof-specialty,reading,husband
+406567,448913,MALE,College,prof-specialty,hiking,wife
+623032,440837,FEMALE,JD,armed-forces,camping,unmarried
+935442,466634,MALE,College,armed-forces,sleeping,unmarried
+106873,446435,MALE,Associate,tech-support,camping,wife
+563878,438237,FEMALE,Associate,priv-house-serv,movies,husband
+620855,468313,MALE,MD,priv-house-serv,video-games,unmarried
+583169,476303,FEMALE,JD,sales,cross-fit,wife
+337677,450339,FEMALE,Associate,craft-repair,movies,wife
+445973,476502,MALE,College,armed-forces,skydiving,own-child
+156694,600561,MALE,Masters,protective-serv,sleeping,other-relative
+421940,600754,FEMALE,Associate,tech-support,board-games,unmarried
+613226,439304,MALE,PhD,transport-moving,hiking,unmarried
+804410,460722,MALE,Associate,machine-op-inspct,skydiving,own-child
+553565,618632,FEMALE,PhD,handlers-cleaners,base-jumping,husband
+399524,452204,MALE,JD,tech-support,cross-fit,not-in-family
+331595,454530,FEMALE,MD,craft-repair,bungie-jumping,unmarried
+380067,474848,FEMALE,JD,tech-support,polo,own-child
+701521,435985,FEMALE,Associate,machine-op-inspct,paintball,other-relative
+360770,457942,FEMALE,High School,craft-repair,camping,unmarried
+958785,436522,MALE,Masters,adm-clerical,skydiving,own-child
+797934,471704,FEMALE,High School,adm-clerical,base-jumping,own-child
+883980,455810,FEMALE,MD,prof-specialty,golf,unmarried
+340614,446544,FEMALE,MD,craft-repair,paintball,not-in-family
+435784,461919,MALE,College,other-service,movies,other-relative
+563837,470128,MALE,College,adm-clerical,yachting,wife
+200827,462836,MALE,PhD,priv-house-serv,basketball,unmarried
+533941,475407,FEMALE,Associate,transport-moving,polo,unmarried
+265026,473611,FEMALE,College,priv-house-serv,paintball,other-relative
+354481,608425,MALE,MD,prof-specialty,polo,own-child
+566720,476227,FEMALE,Associate,sales,reading,own-child
+832746,452701,FEMALE,High School,adm-clerical,polo,own-child
+386690,456789,FEMALE,Masters,adm-clerical,chess,wife
+979285,600904,FEMALE,Masters,exec-managerial,dancing,own-child
+594722,450889,FEMALE,Associate,adm-clerical,hiking,own-child
+216738,478837,FEMALE,JD,craft-repair,yachting,wife
+369048,611322,MALE,PhD,exec-managerial,hiking,other-relative
+514424,438180,MALE,High School,protective-serv,exercise,other-relative
+954191,449793,FEMALE,PhD,farming-fishing,dancing,own-child
+150181,450730,FEMALE,PhD,sales,video-games,husband
+388671,608758,FEMALE,JD,armed-forces,base-jumping,wife
+457244,445339,MALE,College,transport-moving,chess,unmarried
+206667,438328,FEMALE,Masters,sales,reading,other-relative
+745200,479913,FEMALE,Associate,craft-repair,exercise,own-child
+412703,460760,MALE,JD,other-service,polo,not-in-family
+736771,444797,MALE,JD,transport-moving,sleeping,own-child
+347984,436711,MALE,College,other-service,reading,other-relative
+626074,432491,FEMALE,Associate,craft-repair,sleeping,own-child
+218109,617527,FEMALE,PhD,exec-managerial,base-jumping,other-relative
+999435,601213,MALE,PhD,exec-managerial,golf,not-in-family
+858060,604138,MALE,JD,armed-forces,chess,unmarried
+500384,431361,FEMALE,Masters,protective-serv,board-games,own-child
+903785,477695,MALE,High School,prof-specialty,base-jumping,wife
+873859,612597,FEMALE,College,other-service,paintball,not-in-family
+204294,445638,MALE,Associate,machine-op-inspct,camping,wife
+467106,476185,MALE,JD,machine-op-inspct,base-jumping,wife
+357713,435995,FEMALE,JD,priv-house-serv,sleeping,own-child
+890026,430232,FEMALE,JD,exec-managerial,golf,unmarried
+751612,443861,MALE,PhD,exec-managerial,golf,other-relative
+876680,460801,FEMALE,High School,prof-specialty,board-games,husband
+756981,605121,MALE,MD,exec-managerial,video-games,own-child
+121439,458622,MALE,High School,farming-fishing,reading,own-child
+411289,478661,FEMALE,PhD,machine-op-inspct,video-games,not-in-family
+538466,435299,MALE,High School,protective-serv,exercise,unmarried
+932097,601961,MALE,Masters,adm-clerical,dancing,wife
+463727,604328,FEMALE,High School,prof-specialty,dancing,unmarried
+552618,614385,MALE,MD,armed-forces,exercise,own-child
+936638,438584,FEMALE,Masters,priv-house-serv,video-games,not-in-family
+348814,478703,MALE,MD,transport-moving,base-jumping,own-child
+944102,615683,FEMALE,College,craft-repair,skydiving,husband
+689901,455672,MALE,Associate,sales,skydiving,other-relative
+901083,602942,FEMALE,College,armed-forces,cross-fit,unmarried
+396224,616706,FEMALE,College,transport-moving,skydiving,wife
+682178,473243,MALE,MD,adm-clerical,exercise,husband
+596298,435552,FEMALE,High School,machine-op-inspct,sleeping,wife
+253005,434206,MALE,Masters,exec-managerial,camping,unmarried
+985924,469895,FEMALE,College,exec-managerial,cross-fit,unmarried
+631565,457722,FEMALE,Associate,adm-clerical,polo,not-in-family
+630998,473645,FEMALE,High School,machine-op-inspct,video-games,not-in-family
+926665,619108,FEMALE,College,farming-fishing,camping,not-in-family
+302669,610479,MALE,Masters,prof-specialty,movies,own-child
+620020,474998,MALE,Associate,armed-forces,paintball,unmarried
+439828,616341,FEMALE,High School,machine-op-inspct,basketball,unmarried
+971295,460535,FEMALE,Masters,transport-moving,bungie-jumping,wife
+165565,606487,FEMALE,JD,priv-house-serv,exercise,unmarried
+936543,620737,MALE,High School,priv-house-serv,board-games,unmarried
+296960,445904,FEMALE,JD,exec-managerial,paintball,own-child
+501692,464145,FEMALE,College,tech-support,chess,husband
+525224,466818,MALE,MD,prof-specialty,video-games,other-relative
+355085,464237,MALE,High School,handlers-cleaners,hiking,husband
+830729,618455,FEMALE,MD,other-service,kayaking,wife
+651948,456602,MALE,Masters,machine-op-inspct,base-jumping,husband
+424358,616126,FEMALE,College,exec-managerial,basketball,other-relative
+131478,468508,MALE,Masters,farming-fishing,cross-fit,not-in-family
+268833,431937,FEMALE,High School,priv-house-serv,polo,own-child
+287489,448603,FEMALE,Masters,exec-managerial,camping,other-relative
+808153,444500,MALE,Masters,transport-moving,bungie-jumping,own-child
+687639,601117,FEMALE,JD,transport-moving,sleeping,other-relative
+497347,615383,FEMALE,PhD,priv-house-serv,yachting,not-in-family
+439660,434342,FEMALE,Masters,priv-house-serv,base-jumping,other-relative
+847123,435100,MALE,College,priv-house-serv,exercise,wife
+172307,431278,MALE,Associate,priv-house-serv,skydiving,own-child
+810189,445648,MALE,MD,machine-op-inspct,reading,wife
+432068,448857,MALE,JD,exec-managerial,bungie-jumping,other-relative
+903203,435267,FEMALE,PhD,priv-house-serv,chess,not-in-family
+253085,461275,FEMALE,PhD,other-service,sleeping,own-child
+180720,613816,MALE,JD,handlers-cleaners,polo,unmarried
+492224,608767,MALE,Masters,protective-serv,yachting,not-in-family
+411477,620869,MALE,MD,tech-support,board-games,own-child
+107181,478981,FEMALE,PhD,transport-moving,exercise,wife
+312940,464630,FEMALE,JD,protective-serv,paintball,not-in-family
+855186,466303,FEMALE,Associate,sales,reading,other-relative
+373935,452647,FEMALE,High School,farming-fishing,chess,unmarried
+812989,441370,FEMALE,JD,priv-house-serv,dancing,own-child
+993840,619166,MALE,Associate,tech-support,exercise,wife
+327856,472803,FEMALE,PhD,adm-clerical,yachting,other-relative
+506333,442308,FEMALE,Masters,other-service,reading,husband
+263159,469383,FEMALE,PhD,other-service,base-jumping,husband
+372912,614383,FEMALE,College,transport-moving,reading,husband
+552788,438617,FEMALE,College,priv-house-serv,board-games,unmarried
+722747,613936,FEMALE,Associate,transport-moving,reading,husband
+248467,472163,FEMALE,Associate,machine-op-inspct,board-games,not-in-family
+955953,447458,MALE,Associate,adm-clerical,video-games,not-in-family
+910622,474792,MALE,Masters,craft-repair,yachting,husband
+137675,470559,MALE,Masters,transport-moving,movies,own-child
+343421,432399,FEMALE,MD,priv-house-serv,board-games,unmarried
+413192,607605,FEMALE,PhD,other-service,yachting,other-relative
+247801,600153,FEMALE,High School,tech-support,base-jumping,other-relative
+171147,465979,MALE,MD,protective-serv,board-games,own-child
+431283,466555,FEMALE,PhD,tech-support,hiking,own-child
+461962,444155,MALE,JD,prof-specialty,golf,wife
+149467,465764,MALE,PhD,handlers-cleaners,skydiving,other-relative
+758740,446898,FEMALE,Associate,handlers-cleaners,dancing,unmarried
+628337,453274,FEMALE,Masters,transport-moving,camping,wife
+574637,479320,FEMALE,College,protective-serv,exercise,other-relative
+373600,443462,FEMALE,High School,farming-fishing,yachting,not-in-family
+930032,446158,FEMALE,PhD,protective-serv,kayaking,not-in-family
+396590,602514,FEMALE,JD,craft-repair,skydiving,husband
+238412,477356,MALE,MD,tech-support,video-games,unmarried
+484321,434669,MALE,PhD,armed-forces,hiking,not-in-family
+795847,609322,FEMALE,PhD,farming-fishing,kayaking,wife
+218456,614265,MALE,JD,exec-managerial,chess,other-relative
+792673,606177,FEMALE,Masters,other-service,golf,other-relative
+662256,461514,MALE,High School,adm-clerical,polo,husband
+971338,454685,MALE,MD,farming-fishing,cross-fit,other-relative
+714738,477260,MALE,Masters,armed-forces,chess,unmarried
+753844,469126,MALE,MD,sales,yachting,other-relative
+976645,443402,MALE,College,exec-managerial,sleeping,wife
+918037,479408,FEMALE,Masters,priv-house-serv,polo,other-relative
+996253,467227,MALE,JD,handlers-cleaners,golf,not-in-family
+373731,468433,MALE,JD,armed-forces,camping,unmarried
+836272,604289,MALE,High School,armed-forces,video-games,own-child
+167231,471366,MALE,Associate,adm-clerical,exercise,husband
+743330,450746,MALE,High School,other-service,golf,husband
+807369,614948,FEMALE,High School,armed-forces,yachting,other-relative
+735307,473935,MALE,College,prof-specialty,exercise,own-child
+789208,617267,MALE,JD,transport-moving,cross-fit,not-in-family
+585324,470670,MALE,High School,armed-forces,movies,unmarried
+498759,450368,FEMALE,High School,machine-op-inspct,reading,unmarried
+795004,448809,MALE,MD,machine-op-inspct,camping,wife
+203250,469653,FEMALE,Masters,adm-clerical,reading,not-in-family
+430794,615688,FEMALE,Associate,armed-forces,board-games,own-child
+156636,465631,MALE,PhD,prof-specialty,camping,unmarried
+284143,443344,MALE,Associate,machine-op-inspct,hiking,husband
+740518,441363,MALE,College,tech-support,base-jumping,wife
+445289,462683,MALE,MD,exec-managerial,exercise,not-in-family
+599262,463184,FEMALE,PhD,craft-repair,camping,own-child
+357949,612826,FEMALE,JD,craft-repair,paintball,other-relative
+493161,433155,MALE,Masters,tech-support,sleeping,husband
+320251,616120,FEMALE,Associate,armed-forces,exercise,husband
+231127,461744,FEMALE,PhD,handlers-cleaners,board-games,own-child
+766193,475916,FEMALE,JD,farming-fishing,skydiving,wife
+555374,454434,MALE,MD,sales,reading,other-relative
+491484,464353,FEMALE,PhD,tech-support,paintball,other-relative
+925128,610302,MALE,High School,prof-specialty,yachting,husband
+265093,462106,FEMALE,High School,machine-op-inspct,board-games,unmarried
+267808,431389,MALE,College,sales,golf,unmarried
+116735,442866,MALE,High School,priv-house-serv,reading,husband
+963680,446755,FEMALE,JD,sales,paintball,husband
+445694,464743,MALE,JD,other-service,hiking,not-in-family
+215534,437889,FEMALE,College,transport-moving,chess,not-in-family
+232854,473638,FEMALE,College,other-service,cross-fit,husband
+168260,444232,FEMALE,JD,tech-support,movies,other-relative
+538955,477695,FEMALE,College,adm-clerical,exercise,wife
+243226,458237,MALE,High School,armed-forces,hiking,own-child
+246435,441499,MALE,JD,protective-serv,camping,other-relative
+582480,613436,FEMALE,Associate,tech-support,exercise,unmarried
+345539,448912,MALE,JD,transport-moving,hiking,own-child
+924318,468872,FEMALE,PhD,farming-fishing,skydiving,not-in-family
+726880,619811,MALE,College,farming-fishing,hiking,other-relative
+190588,614166,FEMALE,MD,craft-repair,video-games,own-child
+246705,456600,FEMALE,Associate,tech-support,skydiving,own-child
+619589,618405,FEMALE,JD,prof-specialty,exercise,own-child
+164988,430832,FEMALE,High School,prof-specialty,kayaking,husband
+729534,610989,FEMALE,Masters,sales,basketball,other-relative
+505014,447750,FEMALE,Associate,machine-op-inspct,kayaking,not-in-family
+920826,608708,FEMALE,High School,sales,video-games,other-relative
+534982,469650,FEMALE,Masters,sales,exercise,unmarried
+110408,602304,FEMALE,College,prof-specialty,dancing,not-in-family
+283052,459878,MALE,PhD,craft-repair,skydiving,own-child
+840806,441142,MALE,JD,adm-clerical,paintball,not-in-family
+382394,465667,FEMALE,PhD,armed-forces,sleeping,wife
+876699,473109,FEMALE,College,sales,dancing,wife
+871432,619794,MALE,MD,tech-support,basketball,husband
+379882,602258,FEMALE,Associate,priv-house-serv,reading,other-relative
+852002,479724,MALE,High School,adm-clerical,paintball,own-child
+372891,442210,FEMALE,College,prof-specialty,hiking,other-relative
+689034,463291,FEMALE,PhD,other-service,reading,wife
+743092,474898,FEMALE,JD,farming-fishing,paintball,other-relative
+599174,431354,FEMALE,MD,prof-specialty,paintball,husband
+421092,617460,FEMALE,Masters,protective-serv,golf,not-in-family
+349658,609317,MALE,MD,prof-specialty,yachting,husband
+811042,479821,FEMALE,Associate,sales,paintball,own-child
+505316,473394,MALE,MD,prof-specialty,board-games,wife
+116645,603882,MALE,MD,armed-forces,polo,unmarried
+950880,615229,MALE,JD,tech-support,golf,other-relative
+788502,620197,MALE,PhD,armed-forces,dancing,own-child
+627486,438215,MALE,High School,transport-moving,basketball,unmarried
+498842,444583,MALE,Associate,armed-forces,basketball,wife
+550294,471866,MALE,Masters,handlers-cleaners,chess,not-in-family
+328387,616884,FEMALE,High School,tech-support,camping,unmarried
+540152,448310,FEMALE,JD,sales,hiking,not-in-family
+385932,478902,MALE,Masters,transport-moving,board-games,wife
+618682,442695,MALE,College,other-service,sleeping,own-child
+550930,613826,MALE,PhD,craft-repair,polo,own-child
+998192,476203,FEMALE,College,exec-managerial,yachting,not-in-family
+663938,604333,FEMALE,PhD,craft-repair,movies,not-in-family
+756870,442604,MALE,Masters,farming-fishing,bungie-jumping,own-child
+337158,435663,MALE,MD,protective-serv,chess,wife
+919875,470866,FEMALE,College,adm-clerical,dancing,own-child
+315631,612908,FEMALE,Associate,other-service,hiking,not-in-family
+113464,441871,FEMALE,JD,protective-serv,hiking,own-child
+556415,431496,FEMALE,PhD,exec-managerial,exercise,not-in-family
+250249,436499,FEMALE,High School,exec-managerial,dancing,unmarried
+403776,469853,MALE,High School,craft-repair,movies,wife
+396002,605369,MALE,JD,machine-op-inspct,camping,other-relative
+976908,448466,MALE,College,craft-repair,camping,own-child
+509489,432786,MALE,JD,prof-specialty,movies,unmarried
+485295,473591,FEMALE,JD,adm-clerical,paintball,own-child
+361829,618418,FEMALE,Masters,other-service,paintball,wife
+603632,444558,MALE,JD,farming-fishing,board-games,not-in-family
+783494,457733,MALE,JD,tech-support,chess,wife
+439049,466161,MALE,PhD,other-service,skydiving,husband
+502634,450800,MALE,MD,other-service,dancing,wife
+378588,458993,MALE,High School,transport-moving,board-games,not-in-family
+794731,468634,MALE,PhD,machine-op-inspct,polo,not-in-family
+641934,461264,MALE,PhD,machine-op-inspct,camping,unmarried
+113516,600184,MALE,High School,sales,base-jumping,own-child
+425631,604874,MALE,Associate,protective-serv,movies,husband
+542245,462377,FEMALE,JD,farming-fishing,movies,other-relative
+512894,619657,MALE,Masters,protective-serv,polo,unmarried
+633090,437323,FEMALE,High School,priv-house-serv,exercise,wife
+464234,432148,MALE,MD,machine-op-inspct,yachting,wife
+290162,439690,MALE,College,sales,yachting,own-child
+638155,601848,FEMALE,JD,exec-managerial,yachting,not-in-family
+911429,615821,MALE,Masters,other-service,skydiving,not-in-family
+106186,472475,FEMALE,Associate,priv-house-serv,hiking,husband
+311783,457463,FEMALE,College,handlers-cleaners,chess,husband
+528385,604861,FEMALE,Associate,armed-forces,yachting,not-in-family
+228403,471519,FEMALE,College,machine-op-inspct,bungie-jumping,not-in-family
+209177,618682,FEMALE,JD,craft-repair,polo,wife
+497929,441425,MALE,High School,sales,sleeping,wife
+735844,609336,MALE,JD,farming-fishing,exercise,own-child
+710741,603320,FEMALE,College,prof-specialty,golf,other-relative
+276804,615446,FEMALE,JD,priv-house-serv,chess,unmarried
+507545,435967,FEMALE,High School,sales,camping,other-relative
+485642,610246,FEMALE,Masters,handlers-cleaners,bungie-jumping,other-relative
+796375,479327,MALE,High School,exec-managerial,cross-fit,other-relative
+171183,468300,MALE,Masters,machine-op-inspct,bungie-jumping,wife
+110084,612660,MALE,JD,sales,chess,own-child
+714784,466691,FEMALE,Masters,adm-clerical,video-games,own-child
+143924,468515,MALE,JD,armed-forces,movies,other-relative
+996850,614521,MALE,High School,machine-op-inspct,reading,not-in-family
+284834,465921,FEMALE,Associate,priv-house-serv,golf,own-child
+830878,604555,FEMALE,Masters,exec-managerial,reading,wife
+270208,616276,FEMALE,MD,adm-clerical,polo,wife
+407958,463356,MALE,Masters,priv-house-serv,dancing,wife
+832300,450184,MALE,Masters,machine-op-inspct,kayaking,husband
+927205,466393,MALE,MD,exec-managerial,kayaking,unmarried
+655356,471786,FEMALE,Associate,adm-clerical,chess,not-in-family
+831053,602289,MALE,High School,handlers-cleaners,board-games,not-in-family
+432740,445120,MALE,MD,sales,yachting,wife
+893853,449260,MALE,High School,tech-support,paintball,other-relative
+594988,472724,FEMALE,JD,transport-moving,board-games,unmarried
+979544,475173,MALE,MD,tech-support,sleeping,husband
+191891,443854,MALE,JD,farming-fishing,video-games,husband
+831479,461418,FEMALE,Associate,machine-op-inspct,kayaking,own-child
+714346,616164,FEMALE,MD,machine-op-inspct,chess,husband
+326289,620962,FEMALE,Masters,transport-moving,polo,own-child
+944537,465201,MALE,MD,protective-serv,camping,wife
+779156,470488,MALE,High School,machine-op-inspct,yachting,unmarried
+856153,462250,MALE,Associate,sales,reading,not-in-family
+473338,436408,FEMALE,MD,machine-op-inspct,hiking,own-child
+521694,464230,MALE,Masters,sales,camping,not-in-family
+136520,478609,MALE,Associate,exec-managerial,base-jumping,husband
+730819,437156,FEMALE,JD,protective-serv,hiking,wife
+912665,432218,FEMALE,High School,craft-repair,chess,wife
+469966,620493,FEMALE,MD,machine-op-inspct,kayaking,other-relative
+952300,475391,FEMALE,Associate,prof-specialty,video-games,husband
+322609,440720,MALE,Masters,transport-moving,golf,not-in-family
+890280,606942,FEMALE,MD,craft-repair,dancing,husband
+431583,446971,FEMALE,Masters,handlers-cleaners,bungie-jumping,husband
+155912,470538,FEMALE,High School,craft-repair,chess,wife
+110143,601177,MALE,High School,craft-repair,polo,own-child
+808544,451470,MALE,Masters,craft-repair,dancing,unmarried
+409074,438529,FEMALE,PhD,priv-house-serv,chess,husband
+824728,469742,MALE,Associate,adm-clerical,video-games,not-in-family
+606037,435534,FEMALE,Masters,armed-forces,movies,husband
+636843,442239,FEMALE,JD,other-service,base-jumping,unmarried
+111874,468986,FEMALE,High School,exec-managerial,golf,husband
+439844,606988,FEMALE,Masters,prof-specialty,paintball,not-in-family
+463513,453719,MALE,College,armed-forces,bungie-jumping,wife
+577858,475524,FEMALE,MD,adm-clerical,golf,not-in-family
+607351,617804,MALE,High School,exec-managerial,yachting,unmarried
+682754,613399,MALE,College,craft-repair,bungie-jumping,husband
+757352,453400,MALE,Associate,other-service,base-jumping,other-relative
+307469,615767,MALE,MD,tech-support,chess,not-in-family
+526296,615311,FEMALE,High School,transport-moving,cross-fit,other-relative
+658816,468470,FEMALE,College,handlers-cleaners,board-games,husband
+913337,461383,MALE,College,prof-specialty,yachting,wife
+488464,457727,FEMALE,High School,adm-clerical,movies,husband
+480094,613327,FEMALE,High School,craft-repair,golf,other-relative
+263108,614941,MALE,Associate,handlers-cleaners,kayaking,other-relative
+298412,440680,MALE,Associate,machine-op-inspct,yachting,other-relative
+261905,609949,MALE,High School,transport-moving,cross-fit,other-relative
+674485,479655,FEMALE,Associate,machine-op-inspct,camping,other-relative
+223404,439964,MALE,JD,sales,video-games,other-relative
+991480,478486,MALE,College,adm-clerical,sleeping,unmarried
+804219,466498,MALE,College,farming-fishing,skydiving,husband
+483088,430878,FEMALE,PhD,armed-forces,skydiving,not-in-family
+100804,600127,FEMALE,High School,adm-clerical,reading,wife
+941807,431968,FEMALE,Masters,prof-specialty,paintball,wife
+593466,462804,MALE,Associate,priv-house-serv,chess,other-relative
+437442,435809,FEMALE,Masters,sales,paintball,not-in-family
+942106,453193,MALE,JD,machine-op-inspct,hiking,husband
+794951,459630,MALE,Masters,machine-op-inspct,sleeping,not-in-family
+182450,608982,MALE,JD,transport-moving,bungie-jumping,husband
+730973,452218,FEMALE,MD,craft-repair,camping,wife
+687755,434150,MALE,Masters,sales,exercise,other-relative
+757644,460579,FEMALE,Masters,other-service,dancing,not-in-family
+998865,442142,FEMALE,College,farming-fishing,golf,wife
+944953,608807,MALE,College,adm-clerical,polo,wife
+386429,433153,MALE,High School,tech-support,exercise,other-relative
+108270,436560,MALE,MD,adm-clerical,sleeping,own-child
+205134,436784,MALE,JD,other-service,paintball,husband
+749325,430621,FEMALE,High School,machine-op-inspct,reading,wife
+774303,601574,FEMALE,Masters,farming-fishing,camping,own-child
+698470,433853,MALE,MD,machine-op-inspct,hiking,not-in-family
+719989,453164,MALE,Associate,armed-forces,polo,unmarried
+309323,613931,MALE,JD,other-service,skydiving,other-relative
+444035,607458,MALE,High School,handlers-cleaners,chess,wife
+431478,463835,MALE,College,prof-specialty,reading,wife
+797634,613945,MALE,Masters,priv-house-serv,polo,wife
+284836,432699,FEMALE,High School,tech-support,golf,husband
+238196,613119,MALE,JD,transport-moving,video-games,not-in-family
+885789,472922,MALE,High School,exec-managerial,bungie-jumping,other-relative
+287436,613849,MALE,PhD,armed-forces,sleeping,not-in-family
+496067,603827,FEMALE,PhD,handlers-cleaners,skydiving,own-child
+206004,467780,FEMALE,High School,tech-support,movies,other-relative
+153027,460586,MALE,JD,prof-specialty,paintball,husband
+469426,613842,MALE,PhD,machine-op-inspct,kayaking,husband
+654974,435371,FEMALE,High School,protective-serv,reading,husband
+943425,466289,FEMALE,Masters,farming-fishing,movies,wife
+641845,436173,MALE,College,transport-moving,kayaking,unmarried
+794534,457234,FEMALE,Associate,tech-support,sleeping,unmarried
+357808,474758,FEMALE,Associate,other-service,reading,husband
+536052,477373,FEMALE,Masters,transport-moving,video-games,husband
+873384,613471,FEMALE,MD,tech-support,paintball,husband
+790225,601581,FEMALE,Associate,exec-managerial,base-jumping,other-relative
+587498,612102,MALE,High School,tech-support,camping,wife
+639027,460263,MALE,High School,sales,cross-fit,unmarried
+217899,479134,FEMALE,Masters,machine-op-inspct,exercise,own-child
+589094,451467,FEMALE,JD,tech-support,cross-fit,unmarried
+458829,602670,FEMALE,Masters,handlers-cleaners,movies,not-in-family
+626208,613607,FEMALE,High School,farming-fishing,chess,husband
+315041,611556,FEMALE,MD,priv-house-serv,video-games,husband
+283267,435518,MALE,College,handlers-cleaners,chess,husband
+442494,465942,MALE,Associate,other-service,exercise,other-relative
+159243,446174,MALE,JD,protective-serv,base-jumping,own-child
+669800,611651,FEMALE,MD,protective-serv,chess,own-child
+520179,446657,MALE,High School,transport-moving,reading,own-child
+607974,612506,FEMALE,Masters,handlers-cleaners,paintball,wife
+465065,618493,MALE,College,prof-specialty,hiking,other-relative
+369941,612664,MALE,MD,prof-specialty,basketball,wife
+447226,473653,MALE,Masters,priv-house-serv,golf,other-relative
+831668,454529,FEMALE,Masters,exec-managerial,exercise,husband
+922937,437422,MALE,Associate,prof-specialty,golf,own-child
+640474,619470,MALE,Associate,craft-repair,dancing,own-child
+153298,442666,MALE,Masters,sales,kayaking,other-relative
+334749,620507,FEMALE,Associate,handlers-cleaners,polo,unmarried
+221283,614867,MALE,Associate,prof-specialty,base-jumping,other-relative
+961496,609898,MALE,PhD,prof-specialty,kayaking,other-relative
+804751,450702,FEMALE,College,tech-support,movies,own-child
+369226,600418,MALE,PhD,adm-clerical,sleeping,unmarried
+691115,431202,MALE,JD,farming-fishing,polo,not-in-family
+713172,457793,FEMALE,College,protective-serv,cross-fit,other-relative
+621756,470190,FEMALE,College,farming-fishing,camping,own-child
+615116,603733,FEMALE,MD,prof-specialty,camping,husband
+947598,465136,FEMALE,High School,transport-moving,polo,other-relative
+658002,611723,FEMALE,Associate,prof-specialty,bungie-jumping,husband
+374545,608963,FEMALE,PhD,craft-repair,skydiving,wife
+805806,454139,MALE,JD,adm-clerical,basketball,husband
+235097,447560,FEMALE,MD,exec-managerial,exercise,unmarried
+290971,444378,MALE,JD,other-service,dancing,unmarried
+180286,616583,FEMALE,High School,exec-managerial,exercise,husband
+662088,455913,FEMALE,College,prof-specialty,kayaking,own-child
+884365,454399,MALE,Associate,sales,camping,not-in-family
+178081,602842,FEMALE,MD,craft-repair,reading,husband
+507452,459428,MALE,College,adm-clerical,golf,not-in-family
+990624,613114,MALE,PhD,machine-op-inspct,board-games,not-in-family
+892148,450709,MALE,PhD,exec-managerial,hiking,husband
+398683,444626,MALE,MD,sales,yachting,own-child
+605100,601206,MALE,Masters,exec-managerial,reading,unmarried
+143109,470389,FEMALE,PhD,armed-forces,bungie-jumping,not-in-family
+230223,615218,FEMALE,MD,sales,skydiving,own-child
+769602,606249,FEMALE,College,machine-op-inspct,cross-fit,husband
+420815,616161,FEMALE,MD,tech-support,kayaking,wife
+973546,442335,FEMALE,Associate,priv-house-serv,movies,not-in-family
+608039,604952,FEMALE,PhD,handlers-cleaners,movies,not-in-family
+250162,441533,MALE,PhD,machine-op-inspct,golf,unmarried
+786432,471784,MALE,JD,sales,movies,not-in-family
+445195,453265,FEMALE,MD,protective-serv,hiking,unmarried
+938634,444922,MALE,High School,machine-op-inspct,cross-fit,wife
+482495,474324,MALE,Masters,prof-specialty,yachting,husband
+796005,441298,MALE,College,machine-op-inspct,basketball,unmarried
+910604,446606,MALE,High School,prof-specialty,bungie-jumping,wife
+327488,459537,FEMALE,Associate,protective-serv,hiking,not-in-family
+715202,440757,FEMALE,Masters,armed-forces,kayaking,unmarried
+648852,604948,MALE,College,protective-serv,paintball,wife
+516959,433275,MALE,PhD,craft-repair,basketball,wife
+984456,608309,FEMALE,College,adm-clerical,paintball,wife
+801331,462767,FEMALE,High School,handlers-cleaners,basketball,husband
+786103,471785,FEMALE,JD,adm-clerical,hiking,own-child
+684193,601397,FEMALE,JD,prof-specialty,sleeping,other-relative
+247505,477636,FEMALE,MD,transport-moving,movies,husband
+259792,441967,FEMALE,High School,adm-clerical,reading,unmarried
+185124,454776,MALE,JD,armed-forces,movies,other-relative
+760700,431532,FEMALE,JD,prof-specialty,video-games,own-child
+362407,614169,MALE,PhD,transport-moving,polo,husband
+389525,601425,FEMALE,MD,tech-support,hiking,own-child
+179538,477346,FEMALE,College,farming-fishing,paintball,own-child
+265437,613587,MALE,High School,machine-op-inspct,yachting,husband
+266247,620358,FEMALE,MD,tech-support,kayaking,not-in-family
+921851,617699,FEMALE,High School,protective-serv,bungie-jumping,other-relative
+488724,430567,FEMALE,JD,sales,skydiving,own-child
+192524,439870,MALE,PhD,priv-house-serv,exercise,not-in-family
+338070,438837,FEMALE,High School,tech-support,skydiving,wife
+865607,458997,FEMALE,Masters,handlers-cleaners,dancing,not-in-family
+963285,604147,FEMALE,MD,armed-forces,video-games,other-relative
+728491,606638,FEMALE,Associate,tech-support,board-games,other-relative
+553436,619620,MALE,PhD,other-service,bungie-jumping,husband
+440616,441671,FEMALE,MD,machine-op-inspct,chess,wife
+463237,610381,MALE,Associate,machine-op-inspct,cross-fit,husband
+753452,602416,MALE,College,priv-house-serv,dancing,unmarried
+920554,459562,MALE,College,adm-clerical,board-games,husband
+594783,463271,FEMALE,College,tech-support,hiking,wife
+725330,458132,FEMALE,JD,sales,reading,not-in-family
+607259,448949,MALE,Masters,tech-support,paintball,other-relative
+979336,603732,FEMALE,Associate,prof-specialty,cross-fit,husband
+865201,608929,MALE,High School,armed-forces,exercise,husband
+140977,469875,FEMALE,Masters,farming-fishing,kayaking,wife
+787351,443342,MALE,College,transport-moving,hiking,not-in-family
+272330,456363,MALE,MD,adm-clerical,movies,unmarried
+728025,470826,MALE,Masters,machine-op-inspct,reading,own-child
+804608,458582,FEMALE,PhD,craft-repair,paintball,not-in-family
+718829,454480,FEMALE,High School,armed-forces,yachting,unmarried
+482404,435632,FEMALE,MD,armed-forces,dancing,own-child
+331170,442206,MALE,College,transport-moving,video-games,unmarried
+753056,468303,FEMALE,JD,armed-forces,kayaking,not-in-family
+910365,467762,FEMALE,College,prof-specialty,basketball,other-relative
+379268,447188,FEMALE,Masters,machine-op-inspct,chess,not-in-family
+362843,469438,MALE,MD,craft-repair,base-jumping,unmarried
+135400,462519,MALE,Masters,machine-op-inspct,kayaking,own-child
+798579,432534,MALE,College,prof-specialty,dancing,wife
+250833,436467,FEMALE,JD,protective-serv,dancing,unmarried
+824116,465674,FEMALE,JD,protective-serv,base-jumping,other-relative
+322613,442389,MALE,Associate,other-service,bungie-jumping,husband
+871305,471614,FEMALE,PhD,handlers-cleaners,kayaking,own-child
+488037,442936,FEMALE,Masters,protective-serv,dancing,husband
+485813,437944,FEMALE,Masters,transport-moving,cross-fit,not-in-family
+886473,473705,FEMALE,MD,prof-specialty,video-games,husband
+907113,469363,FEMALE,Masters,tech-support,dancing,own-child
+833321,465376,FEMALE,PhD,craft-repair,camping,unmarried
+521592,438775,FEMALE,College,adm-clerical,bungie-jumping,wife
+254837,457962,MALE,High School,exec-managerial,paintball,husband
+634499,477947,MALE,College,prof-specialty,paintball,wife
+574707,431104,MALE,High School,prof-specialty,camping,husband
+476839,456570,MALE,High School,other-service,basketball,own-child
+149601,612986,FEMALE,PhD,machine-op-inspct,polo,not-in-family
+630683,615730,MALE,JD,craft-repair,camping,not-in-family
+500639,478640,FEMALE,PhD,prof-specialty,basketball,not-in-family
+352120,470510,FEMALE,MD,craft-repair,kayaking,not-in-family
+569245,439360,FEMALE,JD,transport-moving,skydiving,husband
+907012,440251,FEMALE,PhD,priv-house-serv,movies,own-child
+700074,600313,FEMALE,MD,priv-house-serv,paintball,husband
+866805,452216,FEMALE,Associate,prof-specialty,golf,own-child
+951863,478532,MALE,Masters,protective-serv,chess,unmarried
+211578,616929,FEMALE,MD,adm-clerical,hiking,own-child
+357394,620207,MALE,JD,exec-managerial,movies,other-relative
+863749,605743,FEMALE,JD,prof-specialty,paintball,own-child
+596914,472814,FEMALE,JD,machine-op-inspct,skydiving,other-relative
+684653,464362,MALE,PhD,other-service,reading,wife
+528259,456203,MALE,JD,other-service,basketball,wife
+797636,468984,FEMALE,JD,transport-moving,kayaking,other-relative
+326180,473349,FEMALE,PhD,machine-op-inspct,golf,other-relative
+620075,474771,FEMALE,PhD,armed-forces,movies,husband
+965187,448294,MALE,Associate,protective-serv,reading,own-child
+516182,606606,FEMALE,High School,farming-fishing,golf,own-child
+728839,605220,MALE,JD,craft-repair,reading,unmarried
+771509,466612,FEMALE,JD,tech-support,reading,husband
+264221,463331,MALE,Masters,protective-serv,camping,wife
+602704,457843,FEMALE,Associate,prof-specialty,video-games,own-child
+672416,609226,FEMALE,Masters,armed-forces,chess,own-child
+545506,452942,MALE,Associate,priv-house-serv,golf,not-in-family
+777533,609390,FEMALE,Associate,sales,base-jumping,not-in-family
+953334,446608,MALE,MD,craft-repair,board-games,own-child
+369781,602500,MALE,Associate,priv-house-serv,bungie-jumping,wife
+990998,463809,MALE,Associate,prof-specialty,golf,not-in-family
+982678,611996,MALE,MD,farming-fishing,video-games,not-in-family
+646069,459298,FEMALE,MD,exec-managerial,polo,wife
+331683,468158,MALE,Associate,handlers-cleaners,chess,husband
+364055,440831,FEMALE,College,machine-op-inspct,golf,wife
+521854,603848,MALE,High School,armed-forces,kayaking,own-child
+737252,617739,MALE,Associate,tech-support,reading,own-child
+344480,607133,MALE,MD,priv-house-serv,reading,husband
+898519,437470,FEMALE,College,tech-support,dancing,other-relative
+957816,461372,MALE,PhD,exec-managerial,bungie-jumping,own-child
+175960,476130,FEMALE,MD,adm-clerical,golf,own-child
+489618,452438,FEMALE,Masters,other-service,golf,husband
+717044,460517,FEMALE,College,other-service,bungie-jumping,other-relative
+101421,444896,FEMALE,Associate,armed-forces,video-games,other-relative
+793948,448722,FEMALE,Associate,priv-house-serv,base-jumping,unmarried
+737483,477856,FEMALE,Associate,priv-house-serv,polo,other-relative
+695117,617721,FEMALE,JD,armed-forces,exercise,husband
+167466,454176,FEMALE,JD,protective-serv,skydiving,not-in-family
+664732,618127,FEMALE,College,priv-house-serv,chess,other-relative
+143038,441923,MALE,JD,farming-fishing,skydiving,husband
+979963,604279,FEMALE,JD,exec-managerial,skydiving,not-in-family
+467841,440833,FEMALE,JD,prof-specialty,bungie-jumping,husband
+219028,451550,FEMALE,Associate,machine-op-inspct,chess,wife
+130156,431853,FEMALE,PhD,armed-forces,kayaking,own-child
+762951,614274,FEMALE,JD,sales,reading,husband
+376879,619148,MALE,MD,tech-support,base-jumping,unmarried
+599031,456781,FEMALE,Masters,protective-serv,reading,unmarried
+676255,434293,MALE,MD,priv-house-serv,exercise,other-relative
+985446,460895,FEMALE,PhD,handlers-cleaners,sleeping,not-in-family
+884180,601600,MALE,MD,priv-house-serv,polo,other-relative
+571462,465440,MALE,MD,priv-house-serv,video-games,wife
+815883,455482,MALE,MD,farming-fishing,skydiving,wife
+258265,438877,FEMALE,High School,machine-op-inspct,dancing,not-in-family
+569714,479824,FEMALE,Associate,exec-managerial,bungie-jumping,not-in-family
+180008,477415,MALE,JD,transport-moving,paintball,not-in-family
+633375,614372,MALE,JD,other-service,paintball,husband
+556538,465248,FEMALE,High School,craft-repair,exercise,other-relative
+669501,449421,MALE,College,armed-forces,exercise,husband
+963761,445856,FEMALE,MD,other-service,chess,wife
+753005,608525,FEMALE,Masters,craft-repair,sleeping,not-in-family
+454758,608813,FEMALE,JD,priv-house-serv,sleeping,other-relative
+698589,459295,FEMALE,MD,exec-managerial,camping,other-relative
+330119,606144,MALE,Masters,adm-clerical,yachting,husband
+164464,476315,MALE,High School,transport-moving,sleeping,husband
+927354,475891,MALE,MD,priv-house-serv,movies,not-in-family
+231508,462525,MALE,High School,armed-forces,board-games,own-child
+272910,606283,MALE,Associate,exec-managerial,board-games,own-child
+305758,465252,FEMALE,JD,exec-managerial,sleeping,own-child
+950542,449979,FEMALE,PhD,sales,basketball,husband
+291544,604681,FEMALE,Associate,craft-repair,paintball,own-child
+388616,466390,MALE,Associate,sales,video-games,husband
+577992,612316,FEMALE,High School,exec-managerial,sleeping,own-child
+342830,474731,MALE,JD,handlers-cleaners,skydiving,other-relative
+491170,603260,MALE,PhD,armed-forces,basketball,wife
+175553,434370,FEMALE,High School,tech-support,movies,husband
+439341,478388,MALE,Associate,adm-clerical,paintball,other-relative
+221186,617883,MALE,JD,priv-house-serv,camping,own-child
+868031,464808,FEMALE,High School,priv-house-serv,paintball,husband
+844117,609458,MALE,MD,priv-house-serv,base-jumping,not-in-family
+744557,432405,FEMALE,Masters,transport-moving,skydiving,not-in-family
+159536,457875,FEMALE,College,sales,dancing,wife
+727109,477268,MALE,JD,exec-managerial,kayaking,other-relative
+155604,437580,MALE,Masters,exec-managerial,kayaking,not-in-family
+608443,457121,MALE,MD,craft-repair,movies,not-in-family
+117862,436364,FEMALE,JD,transport-moving,cross-fit,own-child
+991553,467654,FEMALE,High School,sales,chess,wife
+727443,471148,MALE,High School,adm-clerical,golf,husband
+378587,468202,MALE,PhD,tech-support,chess,not-in-family
+420948,456959,MALE,College,prof-specialty,exercise,wife
+457188,447274,MALE,High School,protective-serv,chess,own-child
+118236,608405,MALE,JD,transport-moving,base-jumping,not-in-family
+987524,472253,FEMALE,College,other-service,camping,wife
+490596,438923,MALE,MD,priv-house-serv,polo,wife
+524215,607131,FEMALE,PhD,other-service,hiking,not-in-family
+913464,601701,FEMALE,MD,farming-fishing,skydiving,wife
+398484,469220,FEMALE,Associate,adm-clerical,video-games,husband
+752504,433250,FEMALE,Masters,transport-moving,video-games,own-child
+449263,444413,MALE,Masters,prof-specialty,bungie-jumping,unmarried
+844007,433593,MALE,Associate,priv-house-serv,polo,other-relative
+686522,458143,FEMALE,JD,sales,yachting,not-in-family
+670142,474167,FEMALE,JD,adm-clerical,sleeping,unmarried
+607687,476413,FEMALE,College,sales,sleeping,husband
+967713,600208,MALE,JD,craft-repair,polo,other-relative
+291902,618926,FEMALE,Masters,machine-op-inspct,reading,husband
+149839,606219,FEMALE,College,armed-forces,camping,own-child
+840225,448436,FEMALE,JD,priv-house-serv,cross-fit,husband
+643226,447976,MALE,High School,protective-serv,polo,other-relative
+535879,472236,FEMALE,High School,protective-serv,hiking,wife
+746630,468232,FEMALE,PhD,prof-specialty,exercise,own-child
+598308,620819,FEMALE,MD,other-service,bungie-jumping,unmarried
+720356,452349,FEMALE,Associate,craft-repair,movies,own-child
+724752,464646,FEMALE,PhD,machine-op-inspct,exercise,husband
+148498,472209,FEMALE,PhD,other-service,base-jumping,own-child
+110122,459955,FEMALE,Associate,armed-forces,bungie-jumping,own-child
+281388,473389,MALE,Associate,prof-specialty,movies,own-child
+728600,616767,MALE,High School,handlers-cleaners,yachting,own-child
+231548,442948,FEMALE,JD,other-service,hiking,wife
+531160,458936,FEMALE,Masters,sales,board-games,own-child
+889003,613921,MALE,Masters,sales,exercise,not-in-family
+193213,474598,FEMALE,PhD,tech-support,bungie-jumping,wife
+557218,440865,FEMALE,College,transport-moving,video-games,unmarried
+125591,450947,FEMALE,Masters,protective-serv,reading,not-in-family
+227244,473370,FEMALE,JD,handlers-cleaners,sleeping,own-child
+791425,463153,MALE,High School,protective-serv,reading,not-in-family
+354455,612546,FEMALE,JD,craft-repair,yachting,other-relative
+601042,442919,MALE,JD,craft-repair,movies,unmarried
+433663,449352,MALE,Masters,machine-op-inspct,golf,not-in-family
+471938,470104,FEMALE,High School,priv-house-serv,skydiving,other-relative
+564654,459889,MALE,Masters,priv-house-serv,sleeping,wife
+645723,478868,FEMALE,High School,protective-serv,movies,husband
+573572,463307,FEMALE,JD,protective-serv,board-games,husband
+437960,453620,FEMALE,Associate,adm-clerical,bungie-jumping,husband
+649800,466238,FEMALE,PhD,transport-moving,board-games,unmarried
+544225,607697,FEMALE,MD,protective-serv,skydiving,other-relative
+390256,477631,FEMALE,High School,craft-repair,cross-fit,own-child
+488597,443625,MALE,Masters,handlers-cleaners,camping,other-relative
+133889,472223,FEMALE,MD,sales,kayaking,own-child
+931901,608328,FEMALE,Associate,protective-serv,base-jumping,own-child
+769475,474860,FEMALE,MD,tech-support,paintball,other-relative
+844062,606858,MALE,High School,adm-clerical,movies,unmarried
+844129,477938,MALE,MD,tech-support,movies,husband
+732169,462698,FEMALE,Associate,priv-house-serv,paintball,not-in-family
+221854,454552,MALE,College,other-service,exercise,wife
+776950,471585,MALE,PhD,tech-support,reading,own-child
+291006,455426,FEMALE,JD,transport-moving,video-games,wife
+845751,469856,FEMALE,JD,protective-serv,polo,own-child
+889764,454191,FEMALE,Associate,craft-repair,board-games,unmarried
+929306,468454,MALE,Associate,adm-clerical,board-games,other-relative
+515457,614187,FEMALE,High School,craft-repair,golf,unmarried
+556270,433974,FEMALE,Masters,farming-fishing,base-jumping,not-in-family
+908935,604833,MALE,PhD,handlers-cleaners,camping,unmarried
+525862,447469,MALE,College,handlers-cleaners,bungie-jumping,unmarried
+490514,451529,MALE,High School,exec-managerial,cross-fit,other-relative
+774895,431202,FEMALE,JD,adm-clerical,hiking,unmarried
+974522,448190,MALE,MD,other-service,cross-fit,husband
+669809,453713,MALE,High School,other-service,base-jumping,wife
+182953,440153,MALE,College,handlers-cleaners,kayaking,not-in-family
+836349,619570,MALE,JD,craft-repair,yachting,other-relative
+591269,478947,FEMALE,High School,armed-forces,dancing,wife
+550127,443550,FEMALE,High School,exec-managerial,movies,husband
+663190,477644,FEMALE,MD,prof-specialty,movies,unmarried
+109392,433981,MALE,MD,other-service,basketball,other-relative
+215278,433696,MALE,MD,exec-managerial,camping,husband
+674570,443567,MALE,MD,exec-managerial,camping,husband
+681486,430665,MALE,High School,sales,bungie-jumping,own-child
+941851,431289,FEMALE,Masters,craft-repair,paintball,unmarried
+186934,608177,FEMALE,PhD,prof-specialty,sleeping,wife
+918516,442797,FEMALE,Masters,armed-forces,bungie-jumping,other-relative
+533940,441714,MALE,Associate,handlers-cleaners,base-jumping,wife
+556080,612260,FEMALE,Associate,sales,kayaking,husband
